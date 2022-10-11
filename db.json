@@ -1,6 +1,18 @@
-[
-    {
-        "author": "Churchil",
-        "quote": "If you're going through hell, keep going"
-    }
-]
+{
+    "quotes": [
+        {
+            "author": "Churchil",
+            "quote": "If you're going through hell, keep going"
+        },
+        
+        {
+            "author": "John Burroughs",
+            "quote": "The smallest deed is better than the greatest intention."
+        }, 
+
+        {
+            "author": "Albert Einstein",
+            "quote": "Coincidence is God's way of remaining anonymous"
+        }
+    ]
+}
